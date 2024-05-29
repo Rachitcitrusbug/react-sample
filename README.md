@@ -24,7 +24,7 @@ To get started with this project, follow these steps:
 1. Clone the repository to your local machine:
 
     ```
-    git clone git@github.com:Akashcitrusbug/react-sample.git
+    git clone git@github.com:Rachitcitrusbug/react-sample.git
     ```
 
 2. Navigate to the project directory:
